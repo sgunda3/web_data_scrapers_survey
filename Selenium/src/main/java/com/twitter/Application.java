@@ -35,11 +35,9 @@ import java.util.logging.Level;
 
 public class Application {
 
-	static String userName="brsandhya.1997@gmail.com";
-	static String passWord="Sandhy@525";
+	static String userName="";
+	static String passWord="";
 
-//	static String userName="davidwarner2306@gmail.com";
-//	static String passWord="";
 	static String twitterBaseURL = "https://mobile.twitter.com/twitt_login?lang=en";
 	static String mobileTwitterBaseURL = "https://mobile.twitter.com/";
 	static String login = "login";
